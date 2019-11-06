@@ -26,7 +26,7 @@
     "express": "^4.13.4",
     "express-session": "^1.13.0",
     "http": "0.0.0",
-    "mongoose": "^4.5.0",
+    "mongoose": "^5.7.8",
     "passport": "^0.3.2",
     "passport-github": "^1.1.0",
     "socket.io": "^2.0.3",
